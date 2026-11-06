@@ -2,16 +2,19 @@
 
 Two blockout levels made from cubes, cylinders, capsules, spheres and my floor and coin prefabs. The Unity project (2022.3) is in the `Lab 03` folder and the scenes are `Assets/Scenes/Level01.unity` and `Level02.unity`.
 
-The lab document with the screenshots, the explanations and the references is `ITU-CS-464-LAB-03-BSCS23069.docx`.
+The lab document with the screenshots, the explanations and the reasons for the design is `ITU-CS-464-LAB-03-BSCS23069.docx`.
 
-## Level 01: Coin Hop (my own design)
+- **Level 01 video:** [LEVEL 01 VIDEO LINK]
+- **Level 02 video:** [LEVEL 02 VIDEO LINK]
 
-A platform run in three sections at different heights, with gaps to jump, hurdles, a sweeping bar, red strips to jump over and blocks to weave round. It goes from the yellow start pad to the blue flag, collecting six coins on the way.
+## Level 01: Platform Run (my own design)
+
+Three groups of green platforms at different heights (2 m, then up to 2.6 m, then down to 1 m) with gaps to jump between them and corners to turn. You go from the start on the right to the sign on the far left, about 52 m, collecting six coins.
 
 <img src="Docs/level01-overview.png" width="640">
 
-## Level 02: Subway Surfers track
+## Level 02: Sky Steps (my own design)
 
-A 170 m track with three lanes, 6 trains (3 with ramps onto the roof), 7 low barriers to jump, 5 high barriers to roll under, 88 coins, power-up spots, the inspector and his dog at the start and a tunnel at the end. The reference images are my own screenshots from the game in `Docs/reference`.
+A straight 64 m climb in the same style: four stepping pillars, a platform with two blocks to weave round, four stairs up to 3.5 m, a 1 m wide bridge with a red bar to jump, and the goal flag. Eight coins on the way.
 
-<img src="Docs/level02-start.png" width="640">
+<img src="Docs/level02-overview.png" width="640">
