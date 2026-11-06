@@ -4,8 +4,8 @@ Two blockout levels made from cubes, cylinders, capsules, spheres and my floor a
 
 The lab document with the screenshots, the explanations and the reasons for the design is `ITU-CS-464-LAB-03-BSCS23069.docx`.
 
-- **Level 01 video:** [LEVEL 01 VIDEO LINK]
-- **Level 02 video:** [LEVEL 02 VIDEO LINK]
+- **Level 01 video:** https://drive.google.com/file/d/1Swx6_1BnN9wQ9YkJCznqwFpCHkWjM2x8/view?usp=sharing
+- **Level 02 video:** https://drive.google.com/file/d/1Tr2NxRlMBthaIeq-Ca-3ye1UhzVFbD9P/view?usp=sharing
 
 ## Level 01: Platform Run (my own design)
 
